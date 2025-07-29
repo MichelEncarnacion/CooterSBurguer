@@ -17,9 +17,7 @@ export default function Navbar() {
               alt="Logo"
               className="h-16 w-auto mr-3 animate-bounce"
             />
-            <span className="text-white text-4xl font-black uppercase tracking-wide">
-                Cooter<span className="text-yellow-400">´</span>s
-            </span>
+            
           </div>
 
           {/* Desktop Menu */}
